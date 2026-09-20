@@ -1,7 +1,7 @@
 
 <div align="center">
 
-  <img src="pack.png" alt="The Records Rewritten by Nuttyeligaming2.0 Logo" width="128" />
+  <img src="pack.png" alt="Verity Edit Song Logo" width="128" />
 
   # Verity Edit Song
 
