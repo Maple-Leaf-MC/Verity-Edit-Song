@@ -1,0 +1,30 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Turns verity's favourite song into the verity edit song",
+    "min_engine_version": [
+      1,
+      16,
+      20
+    ],
+    "name": "verity edit song",
+    "uuid": "75ff63be-640e-4da7-95df-b6db2735b712",
+    "version": [
+      1,
+      0,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "Turns verity's favourite song into the verity edit song",
+      "type": "resources",
+      "uuid": "1cdc5904-da5e-4175-a52f-82c83c0513aa",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}
